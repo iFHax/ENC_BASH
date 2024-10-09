@@ -8,5 +8,5 @@ We are excited to announce that the Encryption Tool has been updated! 🚀
 Thank you for your support, and happy encrypting!
 
 Installation :
-wget https://api.dotycat.com/V5/ENC/install_enc.sh && chmod +x install_enc.sh && ./install_enc.sh
-License Key: ENC-VER5-FULL-PRO
+<pre><code>wget https://api.dotycat.com/V5/ENC/install_enc.sh && chmod +x install_enc.sh && ./install_enc.sh</code></pre>
+License Key: <pre><code>ENC-VER5-FULL-PRO</code></pre>
